@@ -68,7 +68,7 @@ Key Fields:
 ---
 
 ## Tableau Dashboard
-
+![Tableau](Dashboard/Tableau_Dashboard.png)
 - Branch Performance
 - Monthly Trends
 - Customer Segmentation
