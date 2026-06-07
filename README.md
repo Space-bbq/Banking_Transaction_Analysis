@@ -62,13 +62,13 @@ Key Fields:
 ## Power BI Dashboard
 
 - Revenue KPIs
-![PowerBI](Dashboard/Executive Summary_Power BI.png)
+![PowerBI](Dashboard/Executive_Summary_Power_BI.png)
 
 - Fraud Monitoring
-![PowerBI](Dashboard/Fraud Monitoring_Power BI.png)
+![PowerBI](Dashboard/Fraud_Monitoring_Power_BI.png)
 
 - Customer Analytics
-![PowerBI](Dashboard/Customer Analytics_Power BI.png)
+![PowerBI](Dashboard/Customer_Analytics_Power_BI.png)
 
 ---
 
