@@ -26,7 +26,7 @@ The objective was to analyze transaction patterns, identify fraud-risk transacti
 
 ## Dataset
 
-2500+ banking transactions.
+450+ banking transactions.
 
 Key Fields:
 
@@ -62,8 +62,13 @@ Key Fields:
 ## Power BI Dashboard
 
 - Revenue KPIs
+![PowerBI](Dashboard/Executive Summary_Power BI.png)
+
 - Fraud Monitoring
+![PowerBI](Dashboard/Fraud Monitoring_Power BI.png)
+
 - Customer Analytics
+![PowerBI](Dashboard/Customer Analytics_Power BI.png)
 
 ---
 
